@@ -1,0 +1,1 @@
+[20-Nov-2022 00:45:08 UTC] PHP Fatal error:  Trait 'App\Models\SoftDeletes' not found in /home/getsjevy/febulait.com/app/Models/Project.php on line 8
